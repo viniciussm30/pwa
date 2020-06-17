@@ -1,0 +1,6 @@
+.bg-banner {
+    background: url('https://ionicframework.com/blog/wp-content/uploads/2019/02/PWA-for-your-next-mobile-app.png');
+    background-position: center center;
+    background-size: cover;
+    min-height: 28rem;
+}
